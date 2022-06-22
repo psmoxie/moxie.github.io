@@ -114,7 +114,3 @@
   </div>
   <!-- cont inner end -->
 </div>
-
-<a href="https://dribbble.com/shots/2802024-Satellite-Website-Prototype" target="_blank" class="icon-link">
-  <img src="http://icons.iconarchive.com/icons/uiconstock/socialmedia/256/Dribbble-icon.png">
-</a>
